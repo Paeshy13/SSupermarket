@@ -1,4 +1,4 @@
-s@import "tailwindcss"
+@import "tailwindcss"
 
 @layer utilities {
   .scrollbar-hide {
